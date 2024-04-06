@@ -1,0 +1,123 @@
+06 Apr 2024 21:00:09,313 INFO  repository.AgencyRepo 25 <init> - Initializing AgencyDBRepository with properties: {jdbc.url=jdbc:sqlite:C:UsersIoanaIdeaProjectsmpp-java-labidentifier.sqlite} 
+06 Apr 2024 21:00:09,320 TRACE repository.AgencyRepo 107 getName - Enter
+06 Apr 2024 21:00:09,425 ERROR repository.AgencyRepo 120 getName - org.sqlite.SQLiteException: [SQLITE_NOTADB] File opened that is not a database file (file is not a database)
+06 Apr 2024 21:02:36,697 INFO  repository.AgencyRepo 25 <init> - Initializing AgencyDBRepository with properties: {jdbc=sqlite:C:UsersIoanaIdeaProjectsmpp-java-labidentifier.sqlite} 
+06 Apr 2024 21:02:36,705 TRACE repository.AgencyRepo 107 getName - Enter
+06 Apr 2024 21:02:36,809 ERROR repository.AgencyRepo 120 getName - org.sqlite.SQLiteException: [SQLITE_NOTADB] File opened that is not a database file (file is not a database)
+06 Apr 2024 21:02:53,605 INFO  repository.AgencyRepo 25 <init> - Initializing AgencyDBRepository with properties: {jdbc.url=jdbc:sqlite:C:UsersIoanaIdeaProjectsmpp-java-labidentifier} 
+06 Apr 2024 21:02:53,612 TRACE repository.AgencyRepo 107 getName - Enter
+06 Apr 2024 21:02:53,720 ERROR repository.AgencyRepo 120 getName - org.sqlite.SQLiteException: [SQLITE_NOTADB] File opened that is not a database file (file is not a database)
+06 Apr 2024 21:04:31,177 INFO  repository.AgencyRepo 25 <init> - Initializing AgencyDBRepository with properties: {jdbc.url=jdbc:sqlite:C:UsersIoanaIdeaProjectsmpp-java-labidentifier} 
+06 Apr 2024 21:04:31,185 TRACE repository.AgencyRepo 107 getName - Enter
+06 Apr 2024 21:04:31,296 ERROR repository.AgencyRepo 120 getName - org.sqlite.SQLiteException: [SQLITE_NOTADB] File opened that is not a database file (file is not a database)
+06 Apr 2024 21:05:05,466 INFO  repository.AgencyRepo 25 <init> - Initializing AgencyDBRepository with properties: {jdbc.url=jdbc:sqlite:C:UsersIoanaIdeaProjectsmpp-java-labidentifier} 
+06 Apr 2024 21:05:05,473 TRACE repository.AgencyRepo 107 getName - Enter
+06 Apr 2024 21:05:05,574 ERROR repository.AgencyRepo 120 getName - org.sqlite.SQLiteException: [SQLITE_NOTADB] File opened that is not a database file (file is not a database)
+06 Apr 2024 21:06:04,301 INFO  repository.AgencyRepo 25 <init> - Initializing AgencyDBRepository with properties: {jdbc.url=jdbc:sqlite:C:UsersIoanaIdeaProjectsmpp-java-labidentifier} 
+06 Apr 2024 21:06:04,308 TRACE repository.AgencyRepo 107 getName - Enter
+06 Apr 2024 21:06:04,416 ERROR repository.AgencyRepo 120 getName - org.sqlite.SQLiteException: [SQLITE_NOTADB] File opened that is not a database file (file is not a database)
+06 Apr 2024 21:06:27,863 INFO  repository.AgencyRepo 25 <init> - Initializing AgencyDBRepository with properties: {jdbc.url=jdbc:sqlite:C:UsersIoanaIdeaProjectsmpp-java-labidentifier.sqlite} 
+06 Apr 2024 21:06:27,873 TRACE repository.AgencyRepo 107 getName - Enter
+06 Apr 2024 21:06:27,983 ERROR repository.AgencyRepo 120 getName - org.sqlite.SQLiteException: [SQLITE_NOTADB] File opened that is not a database file (file is not a database)
+06 Apr 2024 21:15:52,712 INFO  repository.AgencyRepo 25 <init> - Initializing AgencyDBRepository with properties: {jdbc.url=jdbc:sqlite:C:UsersIoanaDesktopahhhhh	urism.db} 
+06 Apr 2024 21:15:52,719 TRACE repository.AgencyRepo 107 getName - Enter
+06 Apr 2024 21:15:52,825 ERROR repository.AgencyRepo 120 getName - org.sqlite.SQLiteException: [SQLITE_NOTADB] File opened that is not a database file (file is not a database)
+06 Apr 2024 21:17:39,392 INFO  repository.AgencyRepo 25 <init> - Initializing AgencyDBRepository with properties: {jdbc.url=jdbc:sqlite:C:UsersIoanaDesktopahhhhh	urism.db} 
+06 Apr 2024 21:17:39,399 TRACE repository.AgencyRepo 107 getName - Enter
+06 Apr 2024 21:17:39,555 ERROR repository.AgencyRepo 120 getName - org.sqlite.SQLiteException: [SQLITE_NOTADB] File opened that is not a database file (file is not a database)
+06 Apr 2024 21:20:49,153 INFO  repository.AgencyRepo 25 <init> - Initializing AgencyDBRepository with properties: {jdbc.url=jdbc:sqlite:C:UsersIoanaIdeaProjectsmpp-java-lab	urism.db} 
+06 Apr 2024 21:20:49,160 TRACE repository.AgencyRepo 107 getName - Enter
+06 Apr 2024 21:20:49,263 ERROR repository.AgencyRepo 120 getName - org.sqlite.SQLiteException: [SQLITE_NOTADB] File opened that is not a database file (file is not a database)
+06 Apr 2024 21:24:24,040 INFO  repository.AgencyRepo 25 <init> - Initializing AgencyDBRepository with properties: {jdbc.url=jdbc:sqlite:C:UsersIoanaIdeaProjectsmpp-java-lab	urism.db} 
+06 Apr 2024 21:24:24,048 TRACE repository.AgencyRepo 107 getName - Enter
+06 Apr 2024 21:24:24,160 ERROR repository.AgencyRepo 120 getName - org.sqlite.SQLiteException: [SQLITE_NOTADB] File opened that is not a database file (file is not a database)
+06 Apr 2024 21:26:21,522 INFO  repository.AgencyRepo 25 <init> - Initializing AgencyDBRepository with properties: {jdbc.url=jdbc:sqlite:C:UsersIoanaIdeaProjectsmpp-java-labidentifier.sqlite} 
+06 Apr 2024 21:26:21,530 TRACE repository.AgencyRepo 107 getName - Enter
+06 Apr 2024 21:26:21,639 ERROR repository.AgencyRepo 120 getName - org.sqlite.SQLiteException: [SQLITE_NOTADB] File opened that is not a database file (file is not a database)
+06 Apr 2024 21:28:17,023 INFO  repository.AgencyRepo 25 <init> - Initializing AgencyDBRepository with properties: {jdbc.url=jdbc:sqlite:C:UsersIoanaIdeaProjectsmpp-java-labidentifier.sqlite} 
+06 Apr 2024 21:28:17,030 TRACE repository.AgencyRepo 107 getName - Enter
+06 Apr 2024 21:28:17,099 ERROR repository.AgencyRepo 120 getName - java.sql.SQLException: [SQLITE_NOTADB]  File opened that is not a database file (file is encrypted or is not a database)
+06 Apr 2024 21:30:40,790 INFO  repository.AgencyRepo 25 <init> - Initializing AgencyDBRepository with properties: {jdbc.url=jdbc:sqlite:C:UsersIoanaIdeaProjectsmpp-java-labidentifier.sqlite} 
+06 Apr 2024 21:30:40,797 TRACE repository.AgencyRepo 107 getName - Enter
+06 Apr 2024 21:30:40,905 ERROR repository.AgencyRepo 120 getName - org.sqlite.SQLiteException: [SQLITE_NOTADB] File opened that is not a database file (file is not a database)
+06 Apr 2024 21:32:08,456 INFO  repository.AgencyRepo 25 <init> - Initializing AgencyDBRepository with properties: {jdbc.url=jdbc:sqlite:C:UsersIoanaIdeaProjectsmpp-java-labidentifier.sqlite} 
+06 Apr 2024 21:32:08,464 TRACE repository.AgencyRepo 107 getName - Enter
+06 Apr 2024 21:32:08,574 ERROR repository.AgencyRepo 120 getName - org.sqlite.SQLiteException: [SQLITE_NOTADB] File opened that is not a database file (file is not a database)
+06 Apr 2024 21:32:30,974 INFO  repository.AgencyRepo 25 <init> - Initializing AgencyDBRepository with properties: {jdbc.url=jdbc:sqlite:C:UsersIoanaIdeaProjectsmpp-java-labidentifier.sqlite} 
+06 Apr 2024 21:32:30,981 TRACE repository.AgencyRepo 107 getName - Enter
+06 Apr 2024 21:32:31,085 ERROR repository.AgencyRepo 120 getName - org.sqlite.SQLiteException: [SQLITE_NOTADB] File opened that is not a database file (file is not a database)
+06 Apr 2024 21:33:11,993 INFO  repository.AgencyRepo 25 <init> - Initializing AgencyDBRepository with properties: {jdbc.url=jdbc:sqlite:C:UsersIoanaIdeaProjectsmpp-java-labidentifier.sqlite} 
+06 Apr 2024 21:33:11,999 TRACE repository.AgencyRepo 107 getName - Enter
+06 Apr 2024 21:33:12,105 ERROR repository.AgencyRepo 120 getName - org.sqlite.SQLiteException: [SQLITE_NOTADB] File opened that is not a database file (file is not a database)
+06 Apr 2024 21:33:45,442 INFO  repository.AgencyRepo 25 <init> - Initializing AgencyDBRepository with properties: {jdbc.url=jdbc:sqlite:C:UsersIoanaIdeaProjectsmpp-java-labidentifier.sqlite} 
+06 Apr 2024 21:33:45,448 TRACE repository.AgencyRepo 107 getName - Enter
+06 Apr 2024 21:33:45,554 ERROR repository.AgencyRepo 120 getName - org.sqlite.SQLiteException: [SQLITE_NOTADB] File opened that is not a database file (file is not a database)
+06 Apr 2024 21:34:13,389 INFO  repository.AgencyRepo 25 <init> - Initializing AgencyDBRepository with properties: {jdbc.url=jdbc:sqlite:C:UsersIoanaIdeaProjectsmpp-java-labidentifier.sqlite} 
+06 Apr 2024 21:34:13,395 TRACE repository.AgencyRepo 107 getName - Enter
+06 Apr 2024 21:34:13,499 ERROR repository.AgencyRepo 120 getName - org.sqlite.SQLiteException: [SQLITE_NOTADB] File opened that is not a database file (file is not a database)
+06 Apr 2024 21:34:31,863 INFO  repository.AgencyRepo 25 <init> - Initializing AgencyDBRepository with properties: {jdbc.url=jdbc:sqlite:C:UsersIoanaIdeaProjectsmpp-java-labidentifier.sqlite} 
+06 Apr 2024 21:34:31,869 TRACE repository.AgencyRepo 107 getName - Enter
+06 Apr 2024 21:34:43,763 INFO  repository.AgencyRepo 25 <init> - Initializing AgencyDBRepository with properties: {jdbc.url=jdbc:sqlite:C:UsersIoanaIdeaProjectsmpp-java-labidentifier.sqlite} 
+06 Apr 2024 21:34:43,769 TRACE repository.AgencyRepo 107 getName - Enter
+06 Apr 2024 21:34:53,710 INFO  repository.AgencyRepo 25 <init> - Initializing AgencyDBRepository with properties: {jdbc.url=jdbc:sqlite:C:UsersIoanaIdeaProjectsmpp-java-labidentifier.sqlite} 
+06 Apr 2024 21:34:53,718 TRACE repository.AgencyRepo 107 getName - Enter
+06 Apr 2024 21:35:53,868 INFO  repository.AgencyRepo 25 <init> - Initializing AgencyDBRepository with properties: {jdbc=sqlite:C:UsersIoanaIdeaProjectsmpp-java-labidentifier.sqlite} 
+06 Apr 2024 21:35:53,872 TRACE repository.AgencyRepo 107 getName - Enter
+06 Apr 2024 21:35:53,978 ERROR repository.AgencyRepo 120 getName - org.sqlite.SQLiteException: [SQLITE_NOTADB] File opened that is not a database file (file is not a database)
+06 Apr 2024 21:36:00,854 INFO  repository.AgencyRepo 25 <init> - Initializing AgencyDBRepository with properties: {jdbc.url=jdbc:sqlite:C:UsersIoanaIdeaProjectsmpp-java-labidentifier.sqlite} 
+06 Apr 2024 21:36:00,860 TRACE repository.AgencyRepo 107 getName - Enter
+06 Apr 2024 21:36:00,966 ERROR repository.AgencyRepo 120 getName - org.sqlite.SQLiteException: [SQLITE_NOTADB] File opened that is not a database file (file is not a database)
+06 Apr 2024 21:36:12,475 INFO  repository.AgencyRepo 25 <init> - Initializing AgencyDBRepository with properties: {jdbc.url=jdbc:sqlite:identifier.sqlite} 
+06 Apr 2024 21:36:12,480 TRACE repository.AgencyRepo 107 getName - Enter
+06 Apr 2024 21:36:12,584 ERROR repository.AgencyRepo 120 getName - org.sqlite.SQLiteException: [SQLITE_NOTADB] File opened that is not a database file (file is not a database)
+06 Apr 2024 21:36:23,170 INFO  repository.AgencyRepo 25 <init> - Initializing AgencyDBRepository with properties: {jdbc.url=identifier.sqlite} 
+06 Apr 2024 21:36:23,176 TRACE repository.AgencyRepo 107 getName - Enter
+06 Apr 2024 21:36:23,281 ERROR repository.AgencyRepo 120 getName - org.sqlite.SQLiteException: [SQLITE_NOTADB] File opened that is not a database file (file is not a database)
+06 Apr 2024 21:36:32,614 INFO  repository.AgencyRepo 25 <init> - Initializing AgencyDBRepository with properties: {jdbc.url=jdbc:sqlite:C:UsersIoanaIdeaProjectsmpp-java-labidentifier.sqlite} 
+06 Apr 2024 21:36:32,619 TRACE repository.AgencyRepo 107 getName - Enter
+06 Apr 2024 21:36:32,722 ERROR repository.AgencyRepo 120 getName - org.sqlite.SQLiteException: [SQLITE_NOTADB] File opened that is not a database file (file is not a database)
+06 Apr 2024 21:37:22,710 INFO  repository.AgencyRepo 25 <init> - Initializing AgencyDBRepository with properties: {jdbc.url=jdbc:sqlite:/Users/Ioana/IdeaProjects/mpp-java-lab/identifier.sqlite} 
+06 Apr 2024 21:37:22,715 TRACE repository.AgencyRepo 107 getName - Enter
+06 Apr 2024 21:37:22,820 ERROR repository.AgencyRepo 120 getName - org.sqlite.SQLiteException: [SQLITE_NOTADB] File opened that is not a database file (file is not a database)
+06 Apr 2024 21:37:39,976 INFO  repository.AgencyRepo 25 <init> - Initializing AgencyDBRepository with properties: {jdbc.url=jdbc:sqlite:C/Users/Ioana/IdeaProjects/mpp-java-lab/identifier.sqlite} 
+06 Apr 2024 21:37:39,982 TRACE repository.AgencyRepo 107 getName - Enter
+06 Apr 2024 21:37:40,100 ERROR repository.AgencyRepo 120 getName - org.sqlite.SQLiteException: [SQLITE_NOTADB] File opened that is not a database file (file is not a database)
+06 Apr 2024 21:37:55,505 INFO  repository.AgencyRepo 25 <init> - Initializing AgencyDBRepository with properties: {jdbc.url=jdbc:sqlite:/Ioana/IdeaProjects/mpp-java-lab/identifier.sqlite} 
+06 Apr 2024 21:37:55,510 TRACE repository.AgencyRepo 107 getName - Enter
+06 Apr 2024 21:37:55,613 ERROR repository.AgencyRepo 120 getName - org.sqlite.SQLiteException: [SQLITE_NOTADB] File opened that is not a database file (file is not a database)
+06 Apr 2024 21:38:10,688 INFO  repository.AgencyRepo 25 <init> - Initializing AgencyDBRepository with properties: {jdbc.url=jdbc:sqlite:/C:/Users/Ioana/IdeaProjects/mpp-java-lab/identifier.sqlite} 
+06 Apr 2024 21:38:10,694 TRACE repository.AgencyRepo 107 getName - Enter
+06 Apr 2024 21:38:10,797 ERROR repository.AgencyRepo 120 getName - org.sqlite.SQLiteException: [SQLITE_NOTADB] File opened that is not a database file (file is not a database)
+06 Apr 2024 21:38:30,167 INFO  repository.AgencyRepo 25 <init> - Initializing AgencyDBRepository with properties: {jdbc.url=jdbc:sqlite:C:/Users/Ioana/IdeaProjects/mpp-java-lab/identifier.sqlite} 
+06 Apr 2024 21:38:30,172 TRACE repository.AgencyRepo 107 getName - Enter
+06 Apr 2024 21:38:30,276 ERROR repository.AgencyRepo 120 getName - org.sqlite.SQLiteException: [SQLITE_NOTADB] File opened that is not a database file (file is not a database)
+06 Apr 2024 21:40:06,737 INFO  repository.AgencyRepo 25 <init> - Initializing AgencyDBRepository with properties: {jdbc=sqlite:C:/Users/Ioana/IdeaProjects/mpp-java-lab/identifier.sqlite} 
+06 Apr 2024 21:40:06,742 TRACE repository.AgencyRepo 107 getName - Enter
+06 Apr 2024 21:40:06,845 ERROR repository.AgencyRepo 120 getName - org.sqlite.SQLiteException: [SQLITE_NOTADB] File opened that is not a database file (file is not a database)
+06 Apr 2024 21:40:21,280 INFO  repository.AgencyRepo 25 <init> - Initializing AgencyDBRepository with properties: {sqlite=C:/Users/Ioana/IdeaProjects/mpp-java-lab/identifier.sqlite} 
+06 Apr 2024 21:40:21,285 TRACE repository.AgencyRepo 107 getName - Enter
+06 Apr 2024 21:40:21,393 ERROR repository.AgencyRepo 120 getName - org.sqlite.SQLiteException: [SQLITE_NOTADB] File opened that is not a database file (file is not a database)
+06 Apr 2024 21:40:27,985 INFO  repository.AgencyRepo 25 <init> - Initializing AgencyDBRepository with properties: {jdbc.url=jdbc:sqlite:C:/Users/Ioana/IdeaProjects/mpp-java-lab/identifier.sqlite} 
+06 Apr 2024 21:40:27,989 TRACE repository.AgencyRepo 107 getName - Enter
+06 Apr 2024 21:40:28,094 ERROR repository.AgencyRepo 120 getName - org.sqlite.SQLiteException: [SQLITE_NOTADB] File opened that is not a database file (file is not a database)
+06 Apr 2024 21:44:01,192 INFO  repository.AgencyRepo 25 <init> - Initializing AgencyDBRepository with properties: {jdbc.url=jdbc:sqlite:C:/Users/Ioana/IdeaProjects/mpp-java-lab/identifier.sqlite} 
+06 Apr 2024 21:44:01,200 TRACE repository.AgencyRepo 107 getName - Enter
+06 Apr 2024 21:44:01,320 ERROR repository.AgencyRepo 120 getName - org.sqlite.SQLiteException: [SQLITE_NOTADB] File opened that is not a database file (file is not a database)
+06 Apr 2024 21:44:19,449 INFO  repository.AgencyRepo 25 <init> - Initializing AgencyDBRepository with properties: {} 
+06 Apr 2024 21:44:19,454 TRACE repository.AgencyRepo 107 getName - Enter
+06 Apr 2024 21:44:19,553 ERROR repository.AgencyRepo 120 getName - org.sqlite.SQLiteException: [SQLITE_NOTADB] File opened that is not a database file (file is not a database)
+06 Apr 2024 21:44:30,631 INFO  repository.AgencyRepo 25 <init> - Initializing AgencyDBRepository with properties: {jdbc.url=jdbc:sqlite:C:/Users/Ioana/IdeaProjects/mpp-java-lab/identifier.sqlite} 
+06 Apr 2024 21:44:30,637 TRACE repository.AgencyRepo 107 getName - Enter
+06 Apr 2024 21:44:30,754 ERROR repository.AgencyRepo 120 getName - org.sqlite.SQLiteException: [SQLITE_NOTADB] File opened that is not a database file (file is not a database)
+06 Apr 2024 21:47:27,107 INFO  repository.AgencyRepo 25 <init> - Initializing AgencyDBRepository with properties: {jdbc.url=jdbc:sqlite:C:/Users/Ioana/IdeaProjects/mpp-java-lab/identifier.sqlite} 
+06 Apr 2024 21:47:27,112 TRACE repository.AgencyRepo 107 getName - Enter
+06 Apr 2024 21:48:29,042 INFO  repository.AgencyRepo 25 <init> - Initializing AgencyDBRepository with properties: {jdbc.url=jdbc:sqlite:C:/Users/Ioana/IdeaProjects/mpp-java-lab/identifier.sqlite} 
+06 Apr 2024 21:48:29,049 TRACE repository.AgencyRepo 107 getName - Enter
+06 Apr 2024 21:48:29,154 TRACE repository.AgencyRepo 125 getName - Exit
+06 Apr 2024 21:48:29,154 TRACE repository.AgencyRepo 107 getName - Enter
+06 Apr 2024 21:48:29,155 TRACE repository.AgencyRepo 125 getName - Exit
+06 Apr 2024 21:49:04,405 INFO  repository.AgencyRepo 25 <init> - Initializing AgencyDBRepository with properties: {jdbc.url=jdbc:sqlite:C:/Users/Ioana/IdeaProjects/mpp-java-lab/identifier.sqlite} 
+06 Apr 2024 21:49:04,410 TRACE repository.AgencyRepo 107 getName - Enter
+06 Apr 2024 21:49:04,515 TRACE repository.AgencyRepo 125 getName - Exit
+06 Apr 2024 21:49:04,516 TRACE repository.AgencyRepo 107 getName - Enter
+06 Apr 2024 21:49:04,517 TRACE repository.AgencyRepo 125 getName - Exit

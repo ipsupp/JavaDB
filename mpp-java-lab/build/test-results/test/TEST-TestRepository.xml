@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestRepository" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-04-06T18:49:04" hostname="LENOVO-PC" time="0.5">
+  <properties/>
+  <testcase name="Agency, TCompany, Employee Test." classname="TestRepository" time="0.5"/>
+  <system-out><![CDATA[aaaa
+06 Apr 2024 21:49:04,405 INFO  repository.AgencyRepo 25 <init> - Initializing AgencyDBRepository with properties: {jdbc.url=jdbc:sqlite:C:/Users/Ioana/IdeaProjects/mpp-java-lab/identifier.sqlite} 
+06 Apr 2024 21:49:04,410 TRACE repository.AgencyRepo 107 getName - Enter
+06 Apr 2024 21:49:04,515 TRACE repository.AgencyRepo 125 getName - Exit
+06 Apr 2024 21:49:04,516 TRACE repository.AgencyRepo 107 getName - Enter
+06 Apr 2024 21:49:04,517 TRACE repository.AgencyRepo 125 getName - Exit
+Test Agency passed
+]]></system-out>
+  <system-err><![CDATA[SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+]]></system-err>
+</testsuite>
